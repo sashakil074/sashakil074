@@ -39,3 +39,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sashakil074&" alt="sashakil074" /></p>
 <p align="center">
    <img src="https://activity-graph.herokuapp.com/graph?username=sashakil074&theme=react-dark" width="100%"/> </p>
+   <img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=sashakil074&&show_icons=true&theme=tokyonight&count_private=true" alt="Shakil's Github Stats"/>](https://github.com/sashakil074)
+#### Happy coding!
