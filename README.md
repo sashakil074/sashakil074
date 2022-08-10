@@ -11,16 +11,18 @@
 
 - 🌱 I’m currently learning **MERN,Machine Learning**
 
+- 🚴🏾‍♂️ <b>Getting better at:</b> Web Dev ,Python
+
 - 👯 I’m looking to collaborate on **Github**
 
 - 📫 How to reach me **sashakil.170138@s.pust.ac.bd**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/shahid-ahammed-shakil-ab10b6213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shahid-ahammed-shakil-ab10b6213" height="30" width="40" /></a>
-<a href="https://kaggle.com/sashakil074" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sashakil074" height="30" width="40" /></a>
 <a href="https://fb.com/shakil.ahammed.524" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shakil.ahammed.524" height="30" width="40" /></a>
 <a href="https://instagram.com/_sa_shakil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_sa_shakil" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shahid-ahammed-shakil-ab10b6213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shahid-ahammed-shakil-ab10b6213" height="30" width="40" /></a>
+<a href="https://kaggle.com/sashakil074" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sashakil074" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/sashakil074" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sashakil074" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/sashakil074" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sashakil074" height="30" width="40" /></a>
 <a href="https://www.topcoder.com/members/sashakil074" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="sashakil074" height="30" width="40" /></a>
