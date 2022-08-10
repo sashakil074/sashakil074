@@ -37,3 +37,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sashakil074&show_icons=true&locale=en" alt="sashakil074" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sashakil074&" alt="sashakil074" /></p>
+<p align="center">
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sashakil074&hide_border=false&theme=react&background=0d1117" width="55%" />
+   
+   <img src="https://activity-graph.herokuapp.com/graph?username=sashakil074&theme=react-dark" width="100%"/>
