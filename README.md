@@ -9,13 +9,13 @@
 
 - 🔭 I’m currently working on **Speech Emotion Detection**
 
-- 🌱 I’m currently learning **MERN,Machine Learning**
+- 🌱 I’m currently learning **Machine Learning, Deep Learning**
 
-- 🚴🏾‍♂️ <b>Getting better at:</b> Web Dev ,Python
+- 🚴🏾‍♂️ <b>Getting better at:</b> Web Dev ,Python, Django, Laravel
 
 - 👯 I’m looking to collaborate on **Github**
 
-- 📫 How to reach me **sashakil.170138@s.pust.ac.bd**
+- 📫 How to reach me **shakil.ahammed074@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
